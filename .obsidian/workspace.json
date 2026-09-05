@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5624780ea495b2e5",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "杂项/24520fc8afb76b5edde47b8ca84d5928.png"
-              },
-              "icon": "lucide-image",
-              "title": "24520fc8afb76b5edde47b8ca84d5928"
-            }
-          },
-          {
-            "id": "04d57292d5b5c07c",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "无线遥控项目/WPS图片.png"
-              },
-              "icon": "lucide-image",
-              "title": "WPS图片"
-            }
-          },
-          {
             "id": "cd7c0da63d192071",
             "type": "leaf",
             "state": {
@@ -60,7 +36,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -227,29 +203,34 @@
   },
   "active": "62189e2cc4b84ef1",
   "lastOpenFiles": [
-    "Pasted image 20260828162936.png",
-    "私人数据库/PCB知识.md",
+    "Pasted image 20260905170936.png",
+    "Pasted image 20260905170808.png",
+    "无线遥控项目/测试丢包率.md",
+    "无线遥控项目/低功耗电压值.md",
+    "AI-提示-关键词/提示词.md",
+    "Excalidraw/草稿纸.md",
+    "杂项/Pasted image 20260902083339.png",
+    "杂项/Pasted image 20260902083318.png",
+    "杂项/Pasted image 20260902083306.png",
+    "杂项/Pasted image 20260901113025.png",
+    "杂项/Pasted image 20260828162936.png",
+    "无线遥控项目/AI 提示词.md",
+    "无线遥控项目/无线控制器项目.md",
+    "无线遥控项目/完成进度.md",
+    "私人数据库/学习笔记/公司万用表-相关使用.md",
+    "无线遥控项目/WPS图片.png",
+    "私人数据库/学习笔记/PCB-相关知识.md",
     "私人数据库/学习笔记/03 3第三章欧姆定律.md",
+    "私人数据库/My_Data.md",
+    "键盘选择/键盘选择.md",
+    "学习笔记",
+    "私人数据库/PCB知识.md",
     "私人数据库/学习笔记",
     "未命名 1",
-    "私人数据库/My_Data.md",
-    "AI-提示-关键词/提示词.md",
-    "未命名",
-    "无线遥控项目/完成进度.md",
-    "无线遥控项目/无线控制器项目.md",
     "杂项/Pasted image 20260824110906.png",
     "AI-提示-关键词",
     "杂项/Pasted image 20260824110109.png",
     "杂项/Pasted image 20260824110601.png",
-    "杂项/Pasted image 20260824110234.png",
-    "杂项/Pasted image 20260824104800.png",
-    "杂项/Pasted image 20260824103527.png",
-    "杂项/Pasted image 20260824102212.png",
-    "杂项/Pasted image 20260818094310.png",
-    "杂项/Pasted image 20260818092226.png",
-    "无线遥控项目/测试丢包率.md",
-    "键盘选择/键盘选择.md",
-    "杂项/Pasted image 20260824110608.png",
     "键盘选择",
     "周报/8月份周报/周报_2026-8-20_星期四.md",
     "周报/8月份周报/周报_2026-8月最后一周汇总.md",
@@ -268,11 +249,6 @@
     "赛力斯_双踏板项目/赛力斯_双踏板控制.md",
     "赛力斯_双踏板项目",
     "周报/8月份周报/周报_2026-8-8_星期六.md",
-    "周报/8月份周报/周报_2026-8-7_星期五.md",
-    "周报/8月份周报/周报_2026-8-6_星期四.md",
-    "周报/8月份周报/周报_2026-8-5_星期三.md",
-    "周报/8月份周报/周报_2026-8-4_星期二.md",
-    "周报/7月份周报/周报_7月第三次汇总.md",
     "未命名.canvas",
     "未命名 1.canvas"
   ]
