@@ -1,20 +1,24 @@
 {
   "main": {
-    "id": "5a06e76f1d7e7e8b",
+    "id": "7e37cb5081282e4d",
     "type": "split",
     "children": [
       {
-        "id": "0e1d4179b7ba42f6",
+        "id": "2de7867d1a3d5731",
         "type": "tabs",
         "children": [
           {
-            "id": "354b99aa1c5fa275",
+            "id": "c31ded321da722e1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Chat-GPT/GPT推荐的课程.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "GPT推荐的课程"
             }
           }
         ]
@@ -23,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "16ed5ffaa18e7b6d",
+    "id": "a15d99b58bbffe68",
     "type": "split",
     "children": [
       {
-        "id": "59fba75286abed1c",
+        "id": "ee493649303211a2",
         "type": "tabs",
         "children": [
           {
-            "id": "1e2a8fdcfcd30e3c",
+            "id": "342fb3783e3e7058",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -46,7 +50,7 @@
             }
           },
           {
-            "id": "36d9f52f15aa8c06",
+            "id": "1455d0a672530d49",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -63,11 +67,14 @@
             }
           },
           {
-            "id": "1e5e62762288c6d8",
+            "id": "b3be29bdec9a67ad",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "书签"
             }
@@ -76,51 +83,51 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 237.5
   },
   "right": {
-    "id": "6951c1967d294eee",
+    "id": "d9be0eea910d4935",
     "type": "split",
     "children": [
       {
-        "id": "d5fcf68bb4864d81",
+        "id": "d4d20115122de95f",
         "type": "tabs",
         "children": [
           {
-            "id": "08affe7b6ea148bf",
+            "id": "13542d35d5d3d8ac",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "员工周报模板.md",
-                "collapseAll": false,
+                "file": "杂项/Pasted image 20260909172314.png",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "员工周报模板 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
-            "id": "28a863b0eca21120",
+            "id": "f49d21fc17844b09",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "欢迎.md",
+                "file": "杂项/Pasted image 20260909172314.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "欢迎 的出链列表"
+              "title": "出链"
             }
           },
           {
-            "id": "2b742e4901b88862",
+            "id": "0b315bb1d225b42e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -135,7 +142,7 @@
             }
           },
           {
-            "id": "8325e464c70cbbe2",
+            "id": "8ab67ac69c9517f9",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -149,26 +156,26 @@
             }
           },
           {
-            "id": "75e04ed338732f24",
+            "id": "8f8651b057a14729",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "欢迎.md",
-                "followCursor": false,
+                "file": "Chat-GPT/GPT推荐的课程.md",
+                "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "欢迎 的大纲"
+              "title": "大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 361.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,54 +189,54 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "354b99aa1c5fa275",
+  "active": "c31ded321da722e1",
   "lastOpenFiles": [
-    "杂项/Pasted image 20260911171500.png",
-    "键盘选择/键盘选择.md",
-    "无线遥控项目/测试丢包率.md",
-    "杂项/Pasted image 20260905170936.png",
-    "杂项/Pasted image 20260911092901.png",
-    "杂项/Pasted image 20260911171258.png",
-    "杂项/Pasted image 20260911142654.png",
-    "杂项/Pasted image 20260911142104.png",
-    "杂项/Pasted image 20260911142056.png",
-    "杂项/Pasted image 20260911141750.png",
-    "杂项/Pasted image 20260911141739.png",
-    "杂项/Pasted image 20260911103121.png",
-    "Excalidraw/草稿纸.md",
-    "私人数据库/学习笔记/03 3第三章欧姆定律.md",
-    "无线遥控项目/低功耗电压值.md",
-    "AI-提示-关键词/提示词.md",
-    "无线遥控项目/AI 提示词.md",
-    "无线遥控项目/无线控制器项目.md",
-    "无线遥控项目/完成进度.md",
-    "私人数据库/学习笔记/公司万用表-相关使用.md",
-    "私人数据库/学习笔记/PCB-相关知识.md",
-    "私人数据库/My_Data.md",
-    "学习笔记",
-    "私人数据库/PCB知识.md",
-    "私人数据库/学习笔记",
-    "未命名 1",
-    "AI-提示-关键词",
-    "键盘选择",
-    "周报/8月份周报/周报_2026-8-20_星期四.md",
-    "周报/8月份周报/周报_2026-8月最后一周汇总.md",
-    "周报/8月份周报/周报_2026-8-19_星期三.md",
-    "周报/8月份周报/周报_2026-8-18_星期二.md",
-    "周报/8月份周报/周报_2026-8-17_星期一.md",
-    "周报/8月份周报/周报_2026-8月第一周汇总.md",
-    "周报/8月份周报/周报_2026-8-3_星期一.md",
-    "周报/7月份周报/2026年7月最后一周月报汇总.md",
-    "周报/8月份周报",
-    "周报/7月份周报/7月第一周汇总.md",
-    "周报/7月份周报",
-    "杂项/欢迎.md",
-    "杂项/未命名.base",
-    "私人数据库",
-    "赛力斯_双踏板项目/赛力斯_双踏板控制.md",
-    "赛力斯_双踏板项目",
-    "周报/8月份周报/周报_2026-8-8_星期六.md",
+    "芯片手册.md",
+    "Chat-GPT/GPT推荐的课程.md",
+    "Chat-GPT",
+    "学习笔记/电学基础.md",
+    "杂项/Pasted image 20260913203742.png",
+    "杂项/Pasted image 20260913203739.png",
+    "杂项/Pasted image 20260913203717.png",
+    "杂项/Pasted image 20260913203328.png",
+    "杂项/Pasted image 20260913202756.png",
+    "杂项/Pasted image 20260913193146.png",
+    "杂项/Pasted image 20260913193046.png",
+    "杂项/Pasted image 20260913193040.png",
+    "杂项/Pasted image 20260913192921.png",
+    "杂项/Pasted image 20260913192319.png",
+    "学习笔记/电路分析.md",
+    "PPT.md",
+    "Excalidraw/Drawing 2026-09-05 23.20.17.excalidraw.md",
+    "Excalidraw/Drawing 2026-09-09 14.12.49.excalidraw.md",
+    "学习笔记/C实现-面向对象编程.md",
+    "未命名 3.base",
     "未命名.canvas",
-    "未命名 1.canvas"
+    "未命名 4.base",
+    "未命名 5.base",
+    "未命名 6.base",
+    "未命名 2.base",
+    "未命名 1.base",
+    "未命名.base",
+    "尚硅谷_蓝牙音响项目_STM32/小知识.md",
+    "AI提问-关键词/电脑故障诊断-相关.md",
+    "AI提问-关键词",
+    "杂项/Excalidraw/算法笔记.md",
+    "杂项/Excalidraw/Drawing 2026-09-05 23.16.30.excalidraw.md",
+    "杂项/Excalidraw/Drawing 2026-09-05 23.16.29_2.excalidraw.md",
+    "杂项/Excalidraw/Drawing 2026-09-05 23.16.29_1.excalidraw.md",
+    "杂项/Excalidraw/Drawing 2026-09-05 23.16.29_0.excalidraw.md",
+    "杂项/Excalidraw/Drawing 2026-09-05 23.16.29.excalidraw.md",
+    "杂项/Excalidraw/Drawing 2026-09-05 23.16.28_1.excalidraw.md",
+    "杂项/Excalidraw/Drawing 2026-09-05 23.16.28_0.excalidraw.md",
+    "杂项/Excalidraw/Drawing 2026-09-05 23.16.28.excalidraw.md",
+    "杂项/Excalidraw/Drawing 2026-09-05 23.16.27_0.excalidraw.md",
+    "杂项/Excalidraw/Drawing 2026-09-05 23.16.27.excalidraw.md",
+    "杂项/Excalidraw/Drawing 2026-09-05 23.16.26.excalidraw.md",
+    "杂项/Excalidraw/Drawing 2026-09-05 23.16.23.excalidraw.md",
+    "杂项/Excalidraw/Drawing 2026-08-29 14.05.36.excalidraw.md",
+    "杂项/算法笔记_1.md",
+    "杂项/算法笔记_0.md",
+    "杂项/未命名.base"
   ]
 }
